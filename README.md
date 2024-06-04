@@ -3,8 +3,8 @@
 
 Our project focuses on tracking hands using two key areas:
 
-### Palm Detection
-### Hand Landmarks (21 landmarks)
+ Palm Detection
+ Hand Landmarks (21 landmarks)
 
 ![Screenshot 2024-06-03 150950](https://github.com/nishantsingha13/Handtracking-/assets/103675762/45547c62-d736-4c95-a350-58d169fb9a81)
 
